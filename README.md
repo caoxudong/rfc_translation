@@ -37,7 +37,7 @@ RFC地址在[http://tools.ietf.org/html/][1]
     MAY              => 可能会
     OPTIONAL         => 同 *MAY*
 
-# Translator
+# Contributor
 
 [liuyanhui][3]
 
