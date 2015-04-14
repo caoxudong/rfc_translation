@@ -39,10 +39,11 @@ RFC地址在[http://tools.ietf.org/html/][1]
 
 # Translator
 
-caoxudong818@gmail.com
+[liuyanhui][3]
 
 
 
 
 [1]:    http://tools.ietf.org/html/
 [2]:    http://tools.ietf.org/html/rfc2119
+[3]:    https://github.com/liuyanhui
